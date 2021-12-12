@@ -1,0 +1,39 @@
+{
+    "Patient": {
+        "patientName" : "tamer morsi",
+        "patientAge" : 15,
+        "Contact" : {
+            "phoneNumber": "05666543333",
+            "homePhone" : "0244445555",
+            "email" : "tamer@gmail.com"
+        }
+    },
+    "medicalHistories" : [
+        {
+            "diseaseName" : "headache",
+            "medication" : "acamol",
+            "habits" : "drinking alot of energy drinks"
+        }
+    ],
+    "Visits": [
+        {
+            "visitDate" : "22/4/2021",
+            "visitDiagnosis" : "he need to take more rest",
+            "mesdicatioon" : "cidamol"
+
+        }
+    ],
+    "chiefComplaint" : " frequent headache ",
+    "historyOfPresentIllness" : "from 3 weeks",
+    "physicalExamination" : "no physical issues",
+    "assessmentAndPlan" : "take the medication for the next 2 weeks after that we will do another tests",
+    "currentIllnessMedication" : "acamol + rest",
+    "progressNotes" : " form the last vist nothing change",
+    "Insurance" : {
+        "provider" : "trust",
+        "agent" : "tamer",
+        "coverage" : "100%",
+        "policyNumber" :1232223322,
+        "insuranceNumber" : "02888777222" 
+    }
+}
